@@ -1,0 +1,47 @@
+ul
+{
+   text-align: center;
+   font-size: 15pt;
+}
+ /* This is a horzontal list, it looks better than a vertical list and saves up more space */ 
+li 
+{
+    display: inline;
+ /* The line breaks are removed before and after each list item, to display them on one line*/
+	margin: 2%;
+}
+p
+{
+	margin-right: 35%;
+	line-height: 30pt;
+}
+body
+{
+	background-image: url("../images/asswp.png");
+	background-size: cover;
+	color: black;
+}
+.body 
+{
+	color: black 
+}
+#contents
+{
+	text-align: center;
+	font-size: 22pt;
+	color: black;
+}
+h1
+{
+	font-size: 32pt;
+	font-family: impact, fantasy;
+	text-align: center;
+	border-bottom-style: inset;
+	border-color: red;
+	border-width: 6px;
+	
+}
+#references
+{
+	line-height: 20pt;
+}
