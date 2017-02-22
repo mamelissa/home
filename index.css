@@ -17,7 +17,7 @@ p
 }
 body
 {
-	background: url("Images/asswp.png")
+	background: url("Images/asswp.png");
         background-size: cover;
 	color: black;
 }
