@@ -18,6 +18,7 @@ p
 body
 {
 	background-image: url ("Images/asswp.png")
+        background-size: cover;
 	color: black;
 }
 .body 
